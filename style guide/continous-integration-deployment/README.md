@@ -17,7 +17,7 @@ All packages SHOULD be published to npm and pypi from the CI server. The procedu
 
 1. Create your package and prepare it for publication.
 2. Register the package on the appropriate registry.
-3. Give the `datopian` user owner rights on the package.
+3. Give the `standard` user owner rights on the package.
 4. Create tags for package versions.
 5. Use the Travis integration to publish on tags.
 
