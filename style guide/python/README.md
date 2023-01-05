@@ -127,8 +127,9 @@ And other preferences:
 
 We prefer the following frameworks and libraries. If you want to use an alternative to one of these please flag this before starting any work.
 
+* Django
+* FastAPI
 * Flask
-* Click
 
 ## Submitting code
 
