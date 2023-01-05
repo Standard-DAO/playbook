@@ -1,6 +1,6 @@
 # JavaScript Style Guide
 
-This document is a guide of Datopian’s coding standards for source code in the JavaScript programming language.
+This document is a guide of StandardDAO’s coding standards for source code in the JavaScript programming language.
 
 ## 1. Formatting
 
